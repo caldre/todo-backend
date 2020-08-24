@@ -1,6 +1,9 @@
-# bullshitserver
-A server to fetch data for a code challenge
+# todo-server
+
+A server to fetch fake data from jsonplaceholder.com for todo-app
 
 ## npm install
+
 then
-##node server.js
+
+## node server.js
